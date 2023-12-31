@@ -1,0 +1,17 @@
+.course-details-bg-container {
+  padding: 50px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 10px;
+}
+.heading-container {
+  padding-left: 10px;
+}
+.course-details-heading {
+  font-family: 'Roboto';
+}
+.course-details-paragraph {
+  font-weight: 500;
+  font-family: 'Roboto';
+}

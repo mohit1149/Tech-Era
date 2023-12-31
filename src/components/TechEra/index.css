@@ -1,0 +1,12 @@
+.tech-list-item {
+  display: flex;
+  align-items: flex-start;
+  margin-right: 60px;
+  margin-bottom: 40px;
+  margin-top: 50px;
+}
+.course-name {
+  margin-left: 10px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
